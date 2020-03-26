@@ -8,3 +8,4 @@ This is a single-page app built using React.js that allows to schedule an interv
 3. To run the app locally, go to <http://localhost:8000/> in your browser and schedule the interview.
 
 ## Adding images (App View)
+Check <https://github.com/soniasingla/scheduler/tree/master/images>
